@@ -1,90 +1,103 @@
-<h1 align="center">Hey 👋, I'm Akash</h1>
+<div align="center">
 
-<p align="center">
-  AI & ML Student • Full Stack Learner • Data Science Enthusiast
-</p>
+# Akash 👨‍💻
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+🚀" />
-</p>
+### AI & ML Student • Full Stack Learner • Building Real-World Projects
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Data+Science+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=akulaakash17-byte&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. Artificial Intelligence & Machine Learning Student
-- 🔭 Building AI, Web & Automation Projects
-- 🌱 Currently learning Full Stack Development & Machine Learning
-- 💬 Ask me about Python, Web Dev, AI & Databases
-- ⚡ Interested in AI-powered products & real-world solutions
+🎓 B.Sc. Artificial Intelligence & Machine Learning Student  
+💡 Interested in AI, Data Science & Modern Web Development  
+🛠 Building projects with real-world applications  
+🌱 Currently exploring Full Stack Development & Machine Learning  
+⚡ Passionate about learning new technologies and creating impactful products
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/akash-aakula-584002397" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/akash-aakula-584002397">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:akulaakash17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
 <a href="https://github.com/akulaakash17-byte">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 💻 Tech Stack
 
 ### Languages
-<p>
 <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,php" />
-</p>
+
+<br><br>
 
 ### Frontend
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
+
+<br><br>
 
 ### Backend & Database
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql" />
-</p>
+
+<br><br>
 
 ### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
 
-### Data Science & AI
-<p>
+<br><br>
+
+### AI • Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akulaakash17-byte&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulaakash17-byte&layout=compact&theme=tokyonight" height="170"/>
-</p>
+## 🚀 Current Focus
 
----
+🧠 AI & Machine Learning  
+🌐 Full Stack Development  
+📊 Data Science Projects  
+⚙️ Automation & Real-World Applications  
 
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=akulaakash17-byte&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  🚀 Turning ideas into real-world projects
-</p>
+<div align="center">
+
+### “Turning ideas into projects, one commit at a time.” 🚀
+
+</div>
