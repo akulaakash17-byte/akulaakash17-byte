@@ -1,56 +1,130 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">AI & ML Student | Data Science Enthusiast | Full Stack Learner 🚀</h3>
 
-<!--
-**akulaakash17-byte/akulaakash17-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Akash 👋
-
-## 🚀 About Me
-I am a B.Sc. AI & ML student passionate about Artificial Intelligence, Data Science, Web Development, and Automation.  
-I enjoy building real-world projects and exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Data+Science+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠 Languages and Tools
+# 💫 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 B.Sc. Artificial Intelligence & Machine Learning Student
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 🌐 Building Web Applications & Automation Projects
+- 🚀 Currently working on:
+  - Fitness Tracker RPG App
+  - Real Estate Web Platform
+  - AI-based Projects
+- 📚 Exploring React, PostgreSQL & Full Stack Development
+- ⚡ Goal: Build impactful AI-powered products
 
 ---
 
-## 📌 Current Projects
-- Fitness Tracker RPG App
-- Real Estate Web Application
-- AI & Automation Projects
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/akash-aakula-584002397" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:akulaakash17@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/akulaakash17-byte">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/akash-aakula-584002397
-- Portfolio: https://real-estate-ten-red-17.vercel.app/
-- Email: akulaakash17@gmail.com
+# 💻 Tech Stack
+
+### 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### 🛠 Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akulaakash17-byte&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulaakash17-byte&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=akulaakash17-byte&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akulaakash17-byte&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 Real Estate Platform
+A responsive real estate web application with property listings and inquiry system.
+
+### 🎮 Fitness Tracker RPG App
+Gamified fitness tracking application inspired by Solo Leveling.
+
+### 🤖 AI & Automation Projects
+Projects related to machine learning, automation, and smart systems.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akulaakash17-byte&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=akulaakash17-byte&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/akulaakash17-byte">Akash</a>
+</p>
