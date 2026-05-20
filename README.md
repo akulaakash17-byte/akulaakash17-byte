@@ -72,7 +72,6 @@ I am a passionate **B.Sc. Artificial Intelligence & Machine Learning** student d
 
 <div align="center">
  <div align="center">
-  <img src=""https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akulaakash17-byte&theme=tokyonight" height="160" alt="Akash's GitHub Stats"" height="160" alt="Akash's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akulaakash17-byte&theme=tokyonight" height="160" alt="GitHub Streak" />
 </div>
 </div>
