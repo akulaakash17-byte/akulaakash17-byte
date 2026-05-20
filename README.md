@@ -1,50 +1,28 @@
 <div align="center">
 
-# Akash 👨‍💻
+# ⚡ Akash Aakula
+### **AI & ML Student • Full-Stack Developer • Cybersecurity Enthusiast**
 
-### AI & ML Student • Full Stack Learner • Building Real-World Projects
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Web+Developer;Cybersecurity+%26+SecOps;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Data+Science+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
+---
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=akulaakash17-byte&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-aakula-584002397)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akulaakash17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akulaakash17-byte)
+<img src="https://komarev.com/ghpvc/?username=akulaakash17-byte&label=Profile+Views&color=0e75b6&style=for-the-badge" height="28" />
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🚀 About Me
 
-🎓 B.Sc. Artificial Intelligence & Machine Learning Student  
-💡 Interested in AI, Data Science & Modern Web Development  
-🛠 Building projects with real-world applications  
-🌱 Currently exploring Full Stack Development & Machine Learning  
-⚡ Passionate about learning new technologies and creating impactful products
+I am a passionate **B.Sc. Artificial Intelligence & Machine Learning** student dedicated to bridging the gap between intelligent algorithms, modern full-stack web applications, and robust security practices. I thrive on building scalable, real-world applications with a "security-first" mindset.
 
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/akash-aakula-584002397">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="mailto:akulaakash17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://github.com/akulaakash17-byte">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-</div>
+* 🧠 **Current Focus:** Deep Learning, Secure Full-Stack Architecture, and Network Security.
+* 🛠 **Philosophy:** Write clean code, automate the repetitive, and protect user data.
+* 🌱 **Always Learning:** Exploring AI-driven threat detection, DevSecOps, and penetration testing fundamentals.
 
 ---
 
@@ -52,52 +30,63 @@
 
 ## 💻 Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,php" />
+### 🧠 AI / ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" style="vertical-align:top; margin-left: 6px;"/>
+</p>
 
-<br><br>
+<br>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+### 🛡️ Cybersecurity & Networks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,wireshark,regex" />
+</p>
 
-<br><br>
+<br>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql" />
+### 🌐 Full-Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,nodejs,express,php" />
+</p>
 
-<br><br>
+<br>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
+### 🗄️ Databases & Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,c,cpp,java" />
+</p>
 
-<br><br>
+<br>
 
-### AI • Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+</p>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=akulaakash17-byte&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Akash's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulaakash17-byte&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
 
-## 🚀 Current Focus
-
-🧠 AI & Machine Learning  
-🌐 Full Stack Development  
-📊 Data Science Projects  
-⚙️ Automation & Real-World Applications  
-
-</div>
-
----
-
-<div align="center">
-
-### “Turning ideas into projects, one commit at a time.” 🚀
+### 💡 *"Turning ideas into secure projects, one commit at a time."*
 
 </div>
