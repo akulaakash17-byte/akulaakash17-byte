@@ -71,16 +71,10 @@ I am a passionate **B.Sc. Artificial Intelligence & Machine Learning** student d
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=akulaakash17-byte&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Akash's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulaakash17-byte&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+ <div align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=akulaakash17-byte&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akulaakash17-byte&theme=tokyonight" height="160" alt="GitHub Streak" />
+</div>
 </div>
 
 ---
