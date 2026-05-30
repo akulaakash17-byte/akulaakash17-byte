@@ -92,7 +92,7 @@ I am a passionate **B.Sc. Artificial Intelligence & Machine Learning** student d
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akulaakash17-byte&theme=tokyonight" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash17-dev&theme=tokyonight" height="160" alt="GitHub Streak" />
 </div>
 
 ---
